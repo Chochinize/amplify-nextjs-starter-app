@@ -10,7 +10,7 @@ export default function Home() {
           <code className={styles.code}>app/page.tsx</code>
         </p>
       </div>
-
+<li>OKAY</li>
       <div className={styles.center}>
         <Image
           className={styles.logo}
